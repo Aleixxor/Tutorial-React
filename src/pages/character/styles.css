@@ -1,0 +1,46 @@
+.character-info {
+  max-width: 700px;
+  margin: 20px auto 0;
+  padding: 20px;
+  background: #fff;
+  border-radius: 5px;
+  border: 1px solid #ddd;
+}
+
+.character-info h1 {
+  font-size: 32px;
+}
+
+.character-info p {
+  color: #666;
+  line-height: 24px;
+  margin-top: 5px;
+}
+
+.character-info p a {
+  color: #069;
+}
+
+.hide {
+  display: none;
+}
+
+.episode-box {
+  border-radius: 5px;
+  border: 1px solid #666;
+  background: #d3d3d3;
+  list-style-type: none;
+  margin: 20px;
+  padding: 10px 20px;
+  max-height: 100px;
+  overflow-y: auto;
+}
+
+.elipse-image {
+  border-radius: 100%;
+}
+
+.center {
+  display: block;
+  text-align: center;
+}
